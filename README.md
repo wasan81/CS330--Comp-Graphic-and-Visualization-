@@ -1,3 +1,6 @@
+<img width="999" alt="Screenshot 2024-10-22 at 9 57 10 AM" src="https://github.com/user-attachments/assets/8a16d23c-3431-412a-9cf1-0d53d49e33c0">
+
+
 # CS330--Comp-Graphic-and-Visualization-
 # How do I approach designing software?
 # What new design skills has your work on the project helped you to craft?
