@@ -3,9 +3,10 @@
 
  How do I approach designing software?
  
- What new design skills has your work on the project helped you to craft?
+# What new design skills has your work on the project helped you to craft?
+Working on this project improved my 3D design and programming skills. I learned how to model objects, apply lighting, and control camera movement. I created realistic and visually appealing objects, like a house and a vase, while keeping the code simple and easy to manage. I also became better at solving problems, especially when fixing camera movement and rendering issues. Overall, this project helped me create interactive 3D scenes that are both well-made and attractive.
  
- What design process did you follow for your project work?
+ # What design process did you follow for your project work?
  
  How could tactics from your design approach be applied in future work?
  
